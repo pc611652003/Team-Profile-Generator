@@ -1,0 +1,43 @@
+.banner {
+    background-color: crimson;
+}
+
+.title {
+    font-size: 4vw;
+    font-weight: bold;
+}
+
+.teamContent {
+    margin: 2vw;
+    justify-content: center;
+}
+
+.card {
+    width: 20vw;
+    margin: 1vw;
+    border-width: 4px;
+    border-color: darkcyan;
+}
+
+.cardHeader {
+    background-color: dodgerblue;
+    font-weight: bold;
+    padding: 0.5vw;
+}
+
+.cardBody {
+    padding: 0.5vw;
+}
+
+.MemberName {
+    font-size: 2vw;
+}
+
+.MemberRole {
+    font-size: 1.5vw;
+}
+
+.ID, .Email, .SpecialInfo {
+    font-size: 1vw;
+    margin: 0.5vw;
+}
