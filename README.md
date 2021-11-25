@@ -136,6 +136,12 @@ GitHub repository : https://github.com/pc611652003/Team-Profile-Generator
 
 Walkthrough video : https://watch.screencastify.com/v/V4qUXbPNTaO1Eud6akdk
 
+Sample HTML : https://github.com/pc611652003/Team-Profile-Generator/blob/main/dist/index.html
+
+Sample CSS : https://github.com/pc611652003/Team-Profile-Generator/blob/main/dist/style.css
+
+README file : https://github.com/pc611652003/Team-Profile-Generator/blob/main/README.md
+
 
 Through terminal, developer can test the application with npm run test.
 User will ask to input all requiring infos.
