@@ -23,10 +23,23 @@
     background-color: dodgerblue;
     font-weight: bold;
     padding: 0.5vw;
+    text-align: center;
+}
+
+.Manager {
+    background-color: dodgerblue;
+}
+
+.Engineer {
+    background-color: lightgreen;
+}
+
+.Intern {
+    background-color: palevioletred;
 }
 
 .cardBody {
-    padding: 0.5vw;
+    padding: 1vw;
 }
 
 .MemberName {
